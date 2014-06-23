@@ -36,6 +36,7 @@ Or [download as ZIP](https://github.com/nekova/hatebu-button/archive/master.zip)
 
     ```html
     <hatebu-button></hatebu-button>
+    <hatebu-button baloon="simple-baloon"></hatebu-button>
     ```
 
 ## Options
